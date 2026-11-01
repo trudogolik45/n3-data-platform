@@ -1,6 +1,6 @@
 # E3 Data Platform
 
-[![CI](https://github.com/trudogolik45/n3-data-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/trudogolik45/n3-data-platform/actions/workflows/ci.yml)
+[![CI](https://github.com/trudogolik45/n3-data-platform/actions/workflows/ci.yml/badge.svg?event=pull_request)](https://github.com/trudogolik45/n3-data-platform/actions/workflows/ci.yml)
 [![E2E](https://github.com/trudogolik45/n3-data-platform/actions/workflows/e2e.yml/badge.svg)](https://github.com/trudogolik45/n3-data-platform/actions/workflows/e2e.yml)
 
 Платформа обработки данных: пользователь загружает датасет, собирает из готовых блоков граф обработки (DAG), запускает его на Spark и получает новую версию датасета в Data Lake.
